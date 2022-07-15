@@ -5,6 +5,9 @@ BangleApp for controlling a GoPro via Bluetooth LE
 
 ## Related Resources
 
+- BangleJs Documentation
+  - [BLE Communications](https://www.espruino.com/BLE+Communications)
+  - [Software Reference](https://www.espruino.com/Reference#software)
 - Open GoPro BLE Spec
   - [Version 1.0](https://gopro.github.io/OpenGoPro/ble_1_0)
   - [Version 2.0](https://gopro.github.io/OpenGoPro/ble_2_0)
